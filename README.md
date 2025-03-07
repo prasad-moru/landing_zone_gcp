@@ -49,8 +49,8 @@ This repository contains Terraform configurations for deploying and managing inf
 
 1. Clone this repository
 ```bash
-git clone https://github.com/your-org/your-repo.git
-cd your-repo
+git clone https://github.com/prasad-moru/landing_zone_gcp.git
+cd landing_zone_gcp
 ```
 
 2. Run the setup script
