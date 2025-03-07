@@ -1,4 +1,4 @@
-# 🌐 GCP Infrastructure as Code Repository
+# 🌐 GCP Infrastructure
 
 ![Terraform](https://img.shields.io/badge/Terraform-1.0+-623CE4?style=for-the-badge&logo=terraform)
 ![GCP](https://img.shields.io/badge/GCP-Infrastructure-4285F4?style=for-the-badge&logo=google-cloud)
